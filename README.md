@@ -35,6 +35,9 @@ Por exemplo, o caractere 'S' é associado ao valor hexadecimal '53', 'a' ao valo
 
 Essa abordagem funciona bem quando o tamanho do nome é conhecido antecipadamente e é estático durante a execução do programa. No entanto, em situações onde o tamanho do nome pode variar ou não é conhecido antecipadamente, é mais comum usar técnicas de alocação de memória dinâmica, como a função malloc() em linguagens de programação de alto nível ou chamadas de sistema específicas em Assembly.
 
+![Descrição da imagem](img/primeiro_cod.png)
+
+
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, enviar solicitações de pull ou adicionar recursos úteis à documentação.
 
