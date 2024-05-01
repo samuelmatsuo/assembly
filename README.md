@@ -37,7 +37,7 @@ O projeto está organizado da seguinte forma:
 2. **DOS em assembly**
    - Em Assembly, "DOS" refere-se ao "Disk Operating System", um sistema operacional de disco amplamente utilizado em computadores pessoais durante os anos 1980 e parte dos anos 1990. No contexto de Assembly, "DOS" pode se referir a programas escritos para o sistema operacional MS-DOS (Microsoft Disk Operating System) ou PC-DOS (IBM Personal Computer Disk Operating System). Esses programas geralmente interagem diretamente com o hardware do computador e acessam recursos como a tela, teclado e disco diretamente por meio de interrupções do sistema operacional ou chamadas de BIOS (Basic Input/Output System).
 
-   - [Clique aqui para acessar o arquivo print.asm](print.asm)
+   - [Clique aqui para acessar o arquivo print.asm](src/print.asm)
  
    - **Funcinamento dos registradores**
     Os registradores são pequenas unidades de armazenamento dentro do processador que mantêm dados temporários e endereços de memória. Eles são essenciais para operações rápidas e eficientes, armazenando dados temporários, endereços de memória e sinais de status do processador. Cada registrador tem uma função específica, como armazenar dados, apontar para a próxima instrução ou armazenar sinais de status.
