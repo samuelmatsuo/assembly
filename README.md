@@ -20,7 +20,7 @@ O projeto está organizado da seguinte forma:
 
 2. **Execução:**
    - Dependendo do sistema operacional e do hardware, os programas Assembly podem ser executados de diferentes maneiras. Consulte a documentação do seu ambiente de desenvolvimento para obter instruções específicas.
-   - Pode ser executado com o MASN/TASM apertando em cima do código e logo em seguida em Run ASM Code.
+   - Pode ser executado com o MASN/TASM apertando em cima do código com o botão direito do mouse e logo em seguida em Run ASM Code.
 
 ## Recursos Adicionais
 - [Introdução à Linguagem Assembly](https://pt.wikipedia.org/wiki/Linguagem_assembly)
