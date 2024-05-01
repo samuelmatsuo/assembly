@@ -16,15 +16,17 @@ O projeto está organizado da seguinte forma:
 
 ## Como Usar
 1. **Instalação:**
-   - Não é necessária nenhuma instalação especial, já que a linguagem Assembly geralmente é escrita em arquivos de texto simples e montada usando um montador adequado.
+   - Não é necessária nenhuma instalação especial, já que a linguagem Assembly geralmente é escrita em arquivos de texto simples e montada usando um montador adequado. É apenas instalado uma extensão no vs-code que é o MASM/TASM.
 
 2. **Execução:**
    - Dependendo do sistema operacional e do hardware, os programas Assembly podem ser executados de diferentes maneiras. Consulte a documentação do seu ambiente de desenvolvimento para obter instruções específicas.
+   - Pode ser executado com o MASN/TASM apertando em cima do código e logo em seguida em Run ASM Code.
 
 ## Recursos Adicionais
 - [Introdução à Linguagem Assembly](https://pt.wikipedia.org/wiki/Linguagem_assembly)
 - [Tutorial de Assembly para Iniciantes](https://www.tutorialspoint.com/assembly_programming/index.htm)
 - [Livro: Assembly Language Step-by-Step](https://www.amazon.com/Assembly-Language-Step-Step-Programming/dp/0470497025)
+
 ## Atividades 
 1. **Alocação de memória dinâmica**
    - A alocação de memória dinâmica é um processo que permite reservar espaço na memória do computador conforme necessário durante a execução de um programa. Isso é útil quando você não sabe com antecedência o tamanho exato que o espaço de memória precisará ter.
